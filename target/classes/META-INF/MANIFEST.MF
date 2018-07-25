@@ -1,0 +1,11 @@
+Manifest-Version: 1.0
+Built-By: Chrislene Legaspina
+Build-Jdk: 9.0.4
+Implementation-Title: weatherinfoapi
+Implementation-Version: 0.0.1-SNAPSHOT
+Implementation-Vendor-Id: com.weatherinfo
+Implementation-Vendor: Pivotal Software, Inc.
+Implementation-URL: http://projects.spring.io/spring-boot/weatherinfoa
+ pi/
+Created-By: Maven Integration for Eclipse
+
